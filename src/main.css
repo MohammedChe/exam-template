@@ -1,0 +1,59 @@
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /* Set font to 1rem = 10px */
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  background: #eaeaea;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+  margin-top: 50px;
+}
+
+.grid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 66.666667%;
+}
+
+.tip i{
+  float: right;
+}
+
+#logger {
+  display: block;
+  overflow-x: auto;
+  padding: 1em;
+  padding-left: 30%;
+  color: #abb2bf;
+  background: #282c34;
+}
+
+.large {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.main {
+  margin-top: 50px;
+  color: #282c34;
+  font-family: Arial, sans;
+}
