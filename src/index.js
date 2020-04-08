@@ -8,7 +8,7 @@ import 'highlight.js/styles/atom-one-dark.css';
 (function (logger, hljs) {
     console.old = console.log;
     console.log = function () {
-        var output = "", arg, i;
+        let output = "", arg, i;
 
         for (i = 0; i < arguments.length; i++) {
             arg = arguments[i];

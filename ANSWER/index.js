@@ -1,6 +1,11 @@
-console.log("let test = 10;");
+/*
+AUTHOR: your_name_here
+QNo: 0
 
-console.log("let test = 20;");
-console.log("let test = 20;");
-console.log("let test = 20;");
-console.log("let test = 20;");console.log("let test = 40;");
+ANSWER (if text):
+
+CODE_BELOW
+*/
+
+
+console.log(test);
