@@ -1,10 +1,5 @@
 /*
-AUTHOR: your_name_here
-QNo: 0
-
-ANSWER (if text):
-
-CODE_BELOW
+Write your code here for testing. Copy your solution and paste it in the Exam Paper.
 */
 
 
