@@ -6,8 +6,7 @@ To run this locally:
 2. Start the development server using `yarn start` or `npm run start`
 3. Open up [http://localhost:3000](http://localhost:3000)
 4. Test your code using the ANSWER/index.js file
-5. Copy/Paste your solution into the Exam Paper
-6. Good luck
+5. Good luck
 
 
 ### Webpack Boilerplate
